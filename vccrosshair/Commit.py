@@ -31,7 +31,6 @@ class Commit:
 		self.got_features = False
 		self.commit = commit
 		self.bag_of_words = BagOfWords()
-		self.bag_of_words.load_bag_of_words()
 		self.repo_path = repo_path
 
 	def extract_features(self):
