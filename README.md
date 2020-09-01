@@ -1,11 +1,11 @@
 # vccrosshair
 
-This is a classifier I wrote as part of my Bachelor Thesis that can to an extent distinguish between commits that are prone to be vulnerable and ones that are not. You can find the entire thesis as well as a summary in Thesis/.
+This is a CLI for a classifier I wrote as part of my Bachelor Thesis. This tool can to an extent distinguish between commits that are prone to be vulnerable and ones that are not. You can find the entire thesis as well as a summary in Thesis/.
 
 ## Table of Contents
-- [Installation]
-- [Example]
-- [Dataset]
+- [Installation](#installation)
+- [Example](#example)
+- [Dataset](#dataset)
 
 ## Installation
 ```
@@ -20,4 +20,4 @@ vccrosshair --repo openssl --commit 4817504d069b4c5082161b02a22116ad75f822b1
 > Confidence: 0.6815684510145337
 ```
 ## Dataset
-The dataset the classifier was trained on is soon to be released along with a paper that dives deep into its creation. I will link to it here!
+The dataset the classifier was trained on is soon to be released along with a paper that dives deep into its creation. I will link to it here upon release!
