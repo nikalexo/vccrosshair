@@ -26,7 +26,7 @@ class Svm:
         if self.model.predict(scaled_feature_vector): #confidence[0] > threshold:
             print("Commit is prone to be vulnerable!")
             print("Confidence:", str(confidence[0]))
-            print("The significant feature was:" , str(significance_vector.argmax()), "with score", str(significance_vector.max()) + "\n")
+            # print("The significant feature was:" , str(significance_vector.argmax()), "with score", str(significance_vector.max()) + "\n")
             return True
         else:
             print("Commit is not prone to be vulnerable!")
