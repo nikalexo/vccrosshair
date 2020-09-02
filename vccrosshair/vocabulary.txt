@@ -1,18 +1,86 @@
 Past different authors
+Past different authors
+Past different authors
+Past different authors
+Past different authors
+Average past different authors (per file count)
+Average past different authors (per file count)
+Average past different authors (per file count)
+Average past different authors (per file count)
 Average past different authors (per file count)
 Added line count
+Added line count
+Added line count
+Added line count
+Added line count
+Average added line count (per file count)
+Average added line count (per file count)
+Average added line count (per file count)
+Average added line count (per file count)
 Average added line count (per file count)
 Deleted line count
+Deleted line count
+Deleted line count
+Deleted line count
+Deleted line count
+Average deleted line count (per file count)
+Average deleted line count (per file count)
+Average deleted line count (per file count)
+Average deleted line count (per file count)
 Average deleted line count (per file count)
 Average author touch count (per past changes)
+Average author touch count (per past changes)
+Average author touch count (per past changes)
+Average author touch count (per past changes)
+Average author touch count (per past changes)
 Average author touch count (per past changes*file count)
-Hunk count
+Average author touch count (per past changes*file count)
+Average author touch count (per past changes*file count)
+Average author touch count (per past changes*file count)
+Average author touch count (per past changes*file count)
+Past changes
+Past changes
+Past changes
+Past changes
+Past changes
+Past changes (per file count)
+Past changes (per file count)
+Past changes (per file count)
+Past changes (per file count)
+Past changes (per file count)
+Author touch count
+Author touch count
+Author touch count
+Author touch count
+Author touch count
+Author touch count (per file count)
+Author touch count (per file count)
+Author touch count (per file count)
+Author touch count (per file count)
+Author touch count (per file count)
+hunk count
+hunk count
+hunk count
+hunk count
+hunk count
 Average hunk count (per file count)
+Average hunk count (per file count)
+Average hunk count (per file count)
+Average hunk count (per file count)
+Average hunk count (per file count)
+Added functions
 Added functions
 Deleted functions
 Average added functions (per added line count)
+Average added functions (per added line count)
 Average deleted functions (per deleted line count)
 File count
+File count
+File count
+Author contribution percent
+Author contribution percent
+Author contribution percent
+Author contribution percent
 Author contribution percent
 Addition of keyword "auto"
 Average addition of keyword "auto" (per added line count)
@@ -37,6 +105,8 @@ Average addition of keyword "else" (per added line count)
 Addition of keyword "enum"
 Average addition of keyword "enum" (per added line count)
 Addition of keyword "extern"
+Addition of keyword "extern"
+Average addition of keyword "extern" (per added line count)
 Average addition of keyword "extern" (per added line count)
 Addition of keyword "float"
 Average addition of keyword "float" (per added line count)
@@ -65,6 +135,8 @@ Average addition of keyword "static" (per added line count)
 Addition of keyword "struct"
 Average addition of keyword "struct" (per added line count)
 Addition of keyword "switch"
+Addition of keyword "switch"
+Average addition of keyword "switch" (per added line count)
 Average addition of keyword "switch" (per added line count)
 Addition of keyword "typedef"
 Average addition of keyword "typedef" (per added line count)
@@ -73,10 +145,16 @@ Average addition of keyword "union" (per added line count)
 Addition of keyword "unsigned"
 Average addition of keyword "unsigned" (per added line count)
 Addition of keyword "void"
+Addition of keyword "void"
+Addition of keyword "void"
+Average addition of keyword "void" (per added line count)
+Average addition of keyword "void" (per added line count)
 Average addition of keyword "void" (per added line count)
 Addition of keyword "volatile"
 Average addition of keyword "volatile" (per added line count)
 Addition of keyword "while"
+Addition of keyword "while"
+Average addition of keyword "while" (per added line count)
 Average addition of keyword "while" (per added line count)
 Addition of keyword "asm"
 Average addition of keyword "asm" (per added line count)
@@ -103,6 +181,8 @@ Average addition of keyword "catch" (per added line count)
 Addition of keyword "false"
 Average addition of keyword "false" (per added line count)
 Addition of keyword "operator"
+Addition of keyword "operator"
+Average addition of keyword "operator" (per added line count)
 Average addition of keyword "operator" (per added line count)
 Addition of keyword "template"
 Average addition of keyword "template" (per added line count)
@@ -111,6 +191,8 @@ Average addition of keyword "typename" (per added line count)
 Addition of keyword "class"
 Average addition of keyword "class" (per added line count)
 Addition of keyword "friend"
+Addition of keyword "friend"
+Average addition of keyword "friend" (per added line count)
 Average addition of keyword "friend" (per added line count)
 Addition of keyword "private"
 Average addition of keyword "private" (per added line count)
@@ -143,148 +225,155 @@ Average addition of keyword "malloc" (per added line count)
 Addition of keyword "calloc"
 Average addition of keyword "calloc" (per added line count)
 Addition of keyword "realloc"
+Addition of keyword "realloc"
+Average addition of keyword "realloc" (per added line count)
 Average addition of keyword "realloc" (per added line count)
 Addition of keyword "free"
 Average addition of keyword "free" (per added line count)
 Addition of keyword "alloca"
 Average addition of keyword "alloca" (per added line count)
 Addition of keyword "allocinteger"
+Average addition of keyword "allocinteger" (per added line count)
 Deletion of keyword "auto"
-Average deletion of keyword "auto" (per added line count)
+Average deletion of keyword "auto" (per deleted line count)
 Deletion of keyword "break"
-Average deletion of keyword "break" (per added line count)
+Average deletion of keyword "break" (per deleted line count)
 Deletion of keyword "case"
-Average deletion of keyword "case" (per added line count)
+Average deletion of keyword "case" (per deleted line count)
 Deletion of keyword "char"
-Average deletion of keyword "char" (per added line count)
+Average deletion of keyword "char" (per deleted line count)
 Deletion of keyword "const"
-Average deletion of keyword "const" (per added line count)
+Average deletion of keyword "const" (per deleted line count)
 Deletion of keyword "continue"
-Average deletion of keyword "continue" (per added line count)
+Average deletion of keyword "continue" (per deleted line count)
 Deletion of keyword "default"
-Average deletion of keyword "default" (per added line count)
+Average deletion of keyword "default" (per deleted line count)
 Deletion of keyword "do"
-Average deletion of keyword "do" (per added line count)
+Average deletion of keyword "do" (per deleted line count)
 Deletion of keyword "double"
-Average deletion of keyword "double" (per added line count)
+Average deletion of keyword "double" (per deleted line count)
 Deletion of keyword "else"
-Average deletion of keyword "else" (per added line count)
+Average deletion of keyword "else" (per deleted line count)
 Deletion of keyword "enum"
-Average deletion of keyword "enum" (per added line count)
+Average deletion of keyword "enum" (per deleted line count)
 Deletion of keyword "extern"
-Average deletion of keyword "extern" (per added line count)
+Average deletion of keyword "extern" (per deleted line count)
 Deletion of keyword "float"
-Average deletion of keyword "float" (per added line count)
+Average deletion of keyword "float" (per deleted line count)
 Deletion of keyword "for"
-Average deletion of keyword "for" (per added line count)
+Average deletion of keyword "for" (per deleted line count)
 Deletion of keyword "goto"
-Average deletion of keyword "goto" (per added line count)
+Average deletion of keyword "goto" (per deleted line count)
 Deletion of keyword "if"
-Average deletion of keyword "if" (per added line count)
+Average deletion of keyword "if" (per deleted line count)
 Deletion of keyword "int"
-Average deletion of keyword "int" (per added line count)
+Average deletion of keyword "int" (per deleted line count)
 Deletion of keyword "long"
-Average deletion of keyword "long" (per added line count)
+Average deletion of keyword "long" (per deleted line count)
 Deletion of keyword "register"
-Average deletion of keyword "register" (per added line count)
+Average deletion of keyword "register" (per deleted line count)
 Deletion of keyword "return"
-Average deletion of keyword "return" (per added line count)
+Average deletion of keyword "return" (per deleted line count)
 Deletion of keyword "short"
-Average deletion of keyword "short" (per added line count)
+Average deletion of keyword "short" (per deleted line count)
 Deletion of keyword "signed"
-Average deletion of keyword "signed" (per added line count)
+Average deletion of keyword "signed" (per deleted line count)
 Deletion of keyword "sizeof"
-Average deletion of keyword "sizeof" (per added line count)
+Average deletion of keyword "sizeof" (per deleted line count)
 Deletion of keyword "static"
-Average deletion of keyword "static" (per added line count)
+Average deletion of keyword "static" (per deleted line count)
 Deletion of keyword "struct"
-Average deletion of keyword "struct" (per added line count)
+Average deletion of keyword "struct" (per deleted line count)
 Deletion of keyword "switch"
-Average deletion of keyword "switch" (per added line count)
+Average deletion of keyword "switch" (per deleted line count)
 Deletion of keyword "typedef"
-Average deletion of keyword "typedef" (per added line count)
+Average deletion of keyword "typedef" (per deleted line count)
 Deletion of keyword "union"
-Average deletion of keyword "union" (per added line count)
+Average deletion of keyword "union" (per deleted line count)
 Deletion of keyword "unsigned"
-Average deletion of keyword "unsigned" (per added line count)
+Average deletion of keyword "unsigned" (per deleted line count)
 Deletion of keyword "void"
-Average deletion of keyword "void" (per added line count)
+Deletion of keyword "void"
+Average deletion of keyword "void" (per deleted line count)
+Average deletion of keyword "void" (per deleted line count)
 Deletion of keyword "volatile"
-Average deletion of keyword "volatile" (per added line count)
+Average deletion of keyword "volatile" (per deleted line count)
 Deletion of keyword "while"
-Average deletion of keyword "while" (per added line count)
+Average deletion of keyword "while" (per deleted line count)
 Deletion of keyword "asm"
-Average deletion of keyword "asm" (per added line count)
+Average deletion of keyword "asm" (per deleted line count)
 Deletion of keyword "dynamic_cast"
-Average deletion of keyword "dynamic_cast" (per added line count)
+Average deletion of keyword "dynamic_cast" (per deleted line count)
 Deletion of keyword "namespace"
-Average deletion of keyword "namespace" (per added line count)
+Average deletion of keyword "namespace" (per deleted line count)
 Deletion of keyword "reinterpret_cast"
-Average deletion of keyword "reinterpret_cast" (per added line count)
+Average deletion of keyword "reinterpret_cast" (per deleted line count)
 Deletion of keyword "try"
-Average deletion of keyword "try" (per added line count)
+Average deletion of keyword "try" (per deleted line count)
 Deletion of keyword "bool"
-Average deletion of keyword "bool" (per added line count)
+Average deletion of keyword "bool" (per deleted line count)
 Deletion of keyword "explicit"
-Average deletion of keyword "explicit" (per added line count)
+Average deletion of keyword "explicit" (per deleted line count)
 Deletion of keyword "new"
-Average deletion of keyword "new" (per added line count)
+Average deletion of keyword "new" (per deleted line count)
 Deletion of keyword "static_cast"
-Average deletion of keyword "static_cast" (per added line count)
+Average deletion of keyword "static_cast" (per deleted line count)
 Deletion of keyword "typeid"
-Average deletion of keyword "typeid" (per added line count)
+Average deletion of keyword "typeid" (per deleted line count)
 Deletion of keyword "catch"
-Average deletion of keyword "catch" (per added line count)
+Average deletion of keyword "catch" (per deleted line count)
 Deletion of keyword "false"
-Average deletion of keyword "false" (per added line count)
+Average deletion of keyword "false" (per deleted line count)
 Deletion of keyword "operator"
-Average deletion of keyword "operator" (per added line count)
+Deletion of keyword "operator"
+Average deletion of keyword "operator" (per deleted line count)
+Average deletion of keyword "operator" (per deleted line count)
 Deletion of keyword "template"
-Average deletion of keyword "template" (per added line count)
+Average deletion of keyword "template" (per deleted line count)
 Deletion of keyword "typename"
-Average deletion of keyword "typename" (per added line count)
+Average deletion of keyword "typename" (per deleted line count)
 Deletion of keyword "class"
-Average deletion of keyword "class" (per added line count)
+Average deletion of keyword "class" (per deleted line count)
 Deletion of keyword "friend"
-Average deletion of keyword "friend" (per added line count)
+Average deletion of keyword "friend" (per deleted line count)
 Deletion of keyword "private"
-Average deletion of keyword "private" (per added line count)
+Average deletion of keyword "private" (per deleted line count)
 Deletion of keyword "this"
-Average deletion of keyword "this" (per added line count)
+Average deletion of keyword "this" (per deleted line count)
 Deletion of keyword "using"
-Average deletion of keyword "using" (per added line count)
+Average deletion of keyword "using" (per deleted line count)
 Deletion of keyword "const_cast"
-Average deletion of keyword "const_cast" (per added line count)
+Average deletion of keyword "const_cast" (per deleted line count)
 Deletion of keyword "inline"
-Average deletion of keyword "inline" (per added line count)
+Average deletion of keyword "inline" (per deleted line count)
 Deletion of keyword "public"
-Average deletion of keyword "public" (per added line count)
+Average deletion of keyword "public" (per deleted line count)
 Deletion of keyword "throw"
-Average deletion of keyword "throw" (per added line count)
+Average deletion of keyword "throw" (per deleted line count)
 Deletion of keyword "virtual"
-Average deletion of keyword "virtual" (per added line count)
+Average deletion of keyword "virtual" (per deleted line count)
 Deletion of keyword "delete"
-Average deletion of keyword "delete" (per added line count)
+Average deletion of keyword "delete" (per deleted line count)
 Deletion of keyword "mutable"
-Average deletion of keyword "mutable" (per added line count)
+Average deletion of keyword "mutable" (per deleted line count)
 Deletion of keyword "protected"
-Average deletion of keyword "protected" (per added line count)
+Average deletion of keyword "protected" (per deleted line count)
 Deletion of keyword "true"
-Average deletion of keyword "true" (per added line count)
+Average deletion of keyword "true" (per deleted line count)
 Deletion of keyword "wchar_t"
-Average deletion of keyword "wchar_t" (per added line count)
+Average deletion of keyword "wchar_t" (per deleted line count)
 Deletion of keyword "malloc"
-Average deletion of keyword "malloc" (per added line count)
+Average deletion of keyword "malloc" (per deleted line count)
 Deletion of keyword "calloc"
-Average deletion of keyword "calloc" (per added line count)
+Average deletion of keyword "calloc" (per deleted line count)
 Deletion of keyword "realloc"
-Average deletion of keyword "realloc" (per added line count)
+Average deletion of keyword "realloc" (per deleted line count)
 Deletion of keyword "free"
-Average deletion of keyword "free" (per added line count)
+Average deletion of keyword "free" (per deleted line count)
 Deletion of keyword "alloca"
-Average deletion of keyword "alloca" (per added line count)
+Average deletion of keyword "alloca" (per deleted line count)
 Deletion of keyword "allocinteger"
-Average deletion of keyword "allocinteger" (per added line count)
+Average deletion of keyword "allocinteger" (per deleted line count)
 Time the commit was authored (10pm - 6am)
 Time the commit was authored (7am - 12am)
 Time the commit was authored (1pm - 5pm)
