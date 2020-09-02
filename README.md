@@ -18,6 +18,7 @@ In this example we run the classifier over the commit that introduced the infamo
 vccrosshair --repo openssl --commit 4817504d069b4c5082161b02a22116ad75f822b1
 > Commit is prone to be vulnerable!
 > Confidence: 0.6815684510145337
+> The significant feature was: Average addition of keyword "break" (per added line count)
 ```
 ## Dataset
 The dataset the classifier was trained on is soon to be released along with a paper that dives deep into its creation. I will link to it here upon release!

@@ -3,13 +3,12 @@ import numpy as np
 import re
 from scipy.sparse import csc_matrix, save_npz, hstack
 import math
-from .BagOfWords import BagOfWords
 import time
 import json
 
 class Commit:
 
-	def __init__(self, repo_path, commit):
+	def __init__(self, repo_path, commit, bag_of_words):
 		# initialize features
 		self.features_raw = {
 			"repo" : "",
@@ -30,8 +29,11 @@ class Commit:
 		self.feature_vector = csc_matrix([])
 		self.got_features = False
 		self.commit = commit
-		self.bag_of_words = BagOfWords()
+		self.bag_of_words = bag_of_words
 		self.repo_path = repo_path
+
+	def get_vocabulary():
+		return self.vocabulary
 
 	def extract_features(self):
 		

@@ -1,0 +1,298 @@
+Past different authors
+Average past different authors (per file count)
+Added line count
+Average added line count (per file count)
+Deleted line count
+Average deleted line count (per file count)
+Average author touch count (per past changes)
+Average author touch count (per past changes*file count)
+Hunk count
+Average hunk count (per file count)
+Added functions
+Deleted functions
+Average added functions (per added line count)
+Average deleted functions (per deleted line count)
+File count
+Author contribution percent
+Addition of keyword "auto"
+Average addition of keyword "auto" (per added line count)
+Addition of keyword "break"
+Average addition of keyword "break" (per added line count)
+Addition of keyword "case"
+Average addition of keyword "case" (per added line count)
+Addition of keyword "char"
+Average addition of keyword "char" (per added line count)
+Addition of keyword "const"
+Average addition of keyword "const" (per added line count)
+Addition of keyword "continue"
+Average addition of keyword "continue" (per added line count)
+Addition of keyword "default"
+Average addition of keyword "default" (per added line count)
+Addition of keyword "do"
+Average addition of keyword "do" (per added line count)
+Addition of keyword "double"
+Average addition of keyword "double" (per added line count)
+Addition of keyword "else"
+Average addition of keyword "else" (per added line count)
+Addition of keyword "enum"
+Average addition of keyword "enum" (per added line count)
+Addition of keyword "extern"
+Average addition of keyword "extern" (per added line count)
+Addition of keyword "float"
+Average addition of keyword "float" (per added line count)
+Addition of keyword "for"
+Average addition of keyword "for" (per added line count)
+Addition of keyword "goto"
+Average addition of keyword "goto" (per added line count)
+Addition of keyword "if"
+Average addition of keyword "if" (per added line count)
+Addition of keyword "int"
+Average addition of keyword "int" (per added line count)
+Addition of keyword "long"
+Average addition of keyword "long" (per added line count)
+Addition of keyword "register"
+Average addition of keyword "register" (per added line count)
+Addition of keyword "return"
+Average addition of keyword "return" (per added line count)
+Addition of keyword "short"
+Average addition of keyword "short" (per added line count)
+Addition of keyword "signed"
+Average addition of keyword "signed" (per added line count)
+Addition of keyword "sizeof"
+Average addition of keyword "sizeof" (per added line count)
+Addition of keyword "static"
+Average addition of keyword "static" (per added line count)
+Addition of keyword "struct"
+Average addition of keyword "struct" (per added line count)
+Addition of keyword "switch"
+Average addition of keyword "switch" (per added line count)
+Addition of keyword "typedef"
+Average addition of keyword "typedef" (per added line count)
+Addition of keyword "union"
+Average addition of keyword "union" (per added line count)
+Addition of keyword "unsigned"
+Average addition of keyword "unsigned" (per added line count)
+Addition of keyword "void"
+Average addition of keyword "void" (per added line count)
+Addition of keyword "volatile"
+Average addition of keyword "volatile" (per added line count)
+Addition of keyword "while"
+Average addition of keyword "while" (per added line count)
+Addition of keyword "asm"
+Average addition of keyword "asm" (per added line count)
+Addition of keyword "dynamic_cast"
+Average addition of keyword "dynamic_cast" (per added line count)
+Addition of keyword "namespace"
+Average addition of keyword "namespace" (per added line count)
+Addition of keyword "reinterpret_cast"
+Average addition of keyword "reinterpret_cast" (per added line count)
+Addition of keyword "try"
+Average addition of keyword "try" (per added line count)
+Addition of keyword "bool"
+Average addition of keyword "bool" (per added line count)
+Addition of keyword "explicit"
+Average addition of keyword "explicit" (per added line count)
+Addition of keyword "new"
+Average addition of keyword "new" (per added line count)
+Addition of keyword "static_cast"
+Average addition of keyword "static_cast" (per added line count)
+Addition of keyword "typeid"
+Average addition of keyword "typeid" (per added line count)
+Addition of keyword "catch"
+Average addition of keyword "catch" (per added line count)
+Addition of keyword "false"
+Average addition of keyword "false" (per added line count)
+Addition of keyword "operator"
+Average addition of keyword "operator" (per added line count)
+Addition of keyword "template"
+Average addition of keyword "template" (per added line count)
+Addition of keyword "typename"
+Average addition of keyword "typename" (per added line count)
+Addition of keyword "class"
+Average addition of keyword "class" (per added line count)
+Addition of keyword "friend"
+Average addition of keyword "friend" (per added line count)
+Addition of keyword "private"
+Average addition of keyword "private" (per added line count)
+Addition of keyword "this"
+Average addition of keyword "this" (per added line count)
+Addition of keyword "using"
+Average addition of keyword "using" (per added line count)
+Addition of keyword "const_cast"
+Average addition of keyword "const_cast" (per added line count)
+Addition of keyword "inline"
+Average addition of keyword "inline" (per added line count)
+Addition of keyword "public"
+Average addition of keyword "public" (per added line count)
+Addition of keyword "throw"
+Average addition of keyword "throw" (per added line count)
+Addition of keyword "virtual"
+Average addition of keyword "virtual" (per added line count)
+Addition of keyword "delete"
+Average addition of keyword "delete" (per added line count)
+Addition of keyword "mutable"
+Average addition of keyword "mutable" (per added line count)
+Addition of keyword "protected"
+Average addition of keyword "protected" (per added line count)
+Addition of keyword "true"
+Average addition of keyword "true" (per added line count)
+Addition of keyword "wchar_t"
+Average addition of keyword "wchar_t" (per added line count)
+Addition of keyword "malloc"
+Average addition of keyword "malloc" (per added line count)
+Addition of keyword "calloc"
+Average addition of keyword "calloc" (per added line count)
+Addition of keyword "realloc"
+Average addition of keyword "realloc" (per added line count)
+Addition of keyword "free"
+Average addition of keyword "free" (per added line count)
+Addition of keyword "alloca"
+Average addition of keyword "alloca" (per added line count)
+Addition of keyword "allocinteger"
+Deletion of keyword "auto"
+Average deletion of keyword "auto" (per added line count)
+Deletion of keyword "break"
+Average deletion of keyword "break" (per added line count)
+Deletion of keyword "case"
+Average deletion of keyword "case" (per added line count)
+Deletion of keyword "char"
+Average deletion of keyword "char" (per added line count)
+Deletion of keyword "const"
+Average deletion of keyword "const" (per added line count)
+Deletion of keyword "continue"
+Average deletion of keyword "continue" (per added line count)
+Deletion of keyword "default"
+Average deletion of keyword "default" (per added line count)
+Deletion of keyword "do"
+Average deletion of keyword "do" (per added line count)
+Deletion of keyword "double"
+Average deletion of keyword "double" (per added line count)
+Deletion of keyword "else"
+Average deletion of keyword "else" (per added line count)
+Deletion of keyword "enum"
+Average deletion of keyword "enum" (per added line count)
+Deletion of keyword "extern"
+Average deletion of keyword "extern" (per added line count)
+Deletion of keyword "float"
+Average deletion of keyword "float" (per added line count)
+Deletion of keyword "for"
+Average deletion of keyword "for" (per added line count)
+Deletion of keyword "goto"
+Average deletion of keyword "goto" (per added line count)
+Deletion of keyword "if"
+Average deletion of keyword "if" (per added line count)
+Deletion of keyword "int"
+Average deletion of keyword "int" (per added line count)
+Deletion of keyword "long"
+Average deletion of keyword "long" (per added line count)
+Deletion of keyword "register"
+Average deletion of keyword "register" (per added line count)
+Deletion of keyword "return"
+Average deletion of keyword "return" (per added line count)
+Deletion of keyword "short"
+Average deletion of keyword "short" (per added line count)
+Deletion of keyword "signed"
+Average deletion of keyword "signed" (per added line count)
+Deletion of keyword "sizeof"
+Average deletion of keyword "sizeof" (per added line count)
+Deletion of keyword "static"
+Average deletion of keyword "static" (per added line count)
+Deletion of keyword "struct"
+Average deletion of keyword "struct" (per added line count)
+Deletion of keyword "switch"
+Average deletion of keyword "switch" (per added line count)
+Deletion of keyword "typedef"
+Average deletion of keyword "typedef" (per added line count)
+Deletion of keyword "union"
+Average deletion of keyword "union" (per added line count)
+Deletion of keyword "unsigned"
+Average deletion of keyword "unsigned" (per added line count)
+Deletion of keyword "void"
+Average deletion of keyword "void" (per added line count)
+Deletion of keyword "volatile"
+Average deletion of keyword "volatile" (per added line count)
+Deletion of keyword "while"
+Average deletion of keyword "while" (per added line count)
+Deletion of keyword "asm"
+Average deletion of keyword "asm" (per added line count)
+Deletion of keyword "dynamic_cast"
+Average deletion of keyword "dynamic_cast" (per added line count)
+Deletion of keyword "namespace"
+Average deletion of keyword "namespace" (per added line count)
+Deletion of keyword "reinterpret_cast"
+Average deletion of keyword "reinterpret_cast" (per added line count)
+Deletion of keyword "try"
+Average deletion of keyword "try" (per added line count)
+Deletion of keyword "bool"
+Average deletion of keyword "bool" (per added line count)
+Deletion of keyword "explicit"
+Average deletion of keyword "explicit" (per added line count)
+Deletion of keyword "new"
+Average deletion of keyword "new" (per added line count)
+Deletion of keyword "static_cast"
+Average deletion of keyword "static_cast" (per added line count)
+Deletion of keyword "typeid"
+Average deletion of keyword "typeid" (per added line count)
+Deletion of keyword "catch"
+Average deletion of keyword "catch" (per added line count)
+Deletion of keyword "false"
+Average deletion of keyword "false" (per added line count)
+Deletion of keyword "operator"
+Average deletion of keyword "operator" (per added line count)
+Deletion of keyword "template"
+Average deletion of keyword "template" (per added line count)
+Deletion of keyword "typename"
+Average deletion of keyword "typename" (per added line count)
+Deletion of keyword "class"
+Average deletion of keyword "class" (per added line count)
+Deletion of keyword "friend"
+Average deletion of keyword "friend" (per added line count)
+Deletion of keyword "private"
+Average deletion of keyword "private" (per added line count)
+Deletion of keyword "this"
+Average deletion of keyword "this" (per added line count)
+Deletion of keyword "using"
+Average deletion of keyword "using" (per added line count)
+Deletion of keyword "const_cast"
+Average deletion of keyword "const_cast" (per added line count)
+Deletion of keyword "inline"
+Average deletion of keyword "inline" (per added line count)
+Deletion of keyword "public"
+Average deletion of keyword "public" (per added line count)
+Deletion of keyword "throw"
+Average deletion of keyword "throw" (per added line count)
+Deletion of keyword "virtual"
+Average deletion of keyword "virtual" (per added line count)
+Deletion of keyword "delete"
+Average deletion of keyword "delete" (per added line count)
+Deletion of keyword "mutable"
+Average deletion of keyword "mutable" (per added line count)
+Deletion of keyword "protected"
+Average deletion of keyword "protected" (per added line count)
+Deletion of keyword "true"
+Average deletion of keyword "true" (per added line count)
+Deletion of keyword "wchar_t"
+Average deletion of keyword "wchar_t" (per added line count)
+Deletion of keyword "malloc"
+Average deletion of keyword "malloc" (per added line count)
+Deletion of keyword "calloc"
+Average deletion of keyword "calloc" (per added line count)
+Deletion of keyword "realloc"
+Average deletion of keyword "realloc" (per added line count)
+Deletion of keyword "free"
+Average deletion of keyword "free" (per added line count)
+Deletion of keyword "alloca"
+Average deletion of keyword "alloca" (per added line count)
+Deletion of keyword "allocinteger"
+Average deletion of keyword "allocinteger" (per added line count)
+Time the commit was authored (10pm - 6am)
+Time the commit was authored (7am - 12am)
+Time the commit was authored (1pm - 5pm)
+Time the commit was authored (6pm - 9pm)
+Day the commit was authored (Monday)
+Day the commit was authored (Tuesday)
+Day the commit was authored (Wednesday)
+Day the commit was authored (Thursday)
+Day the commit was authored (Friday)
+Day the commit was authored (Saturday)
+Day the commit was authored (Sunday)

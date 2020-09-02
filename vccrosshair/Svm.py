@@ -7,6 +7,7 @@ import sqlite3
 from joblib import dump, load
 import numpy as np
 from scipy.sparse import csc_matrix, vstack, hstack
+from pkg_resources import resource_filename
 
 
 sys.setrecursionlimit(100000000)
@@ -14,11 +15,11 @@ sys.setrecursionlimit(100000000)
 class Svm:
 
     def __init__(self):
-        self.model = load(os.path.dirname(os.path.realpath(__file__))+"/model.joblib")
-        self.preprocessing = load(os.path.dirname(os.path.realpath(__file__))+"/preprocessing.joblib")
+        self.model = load(resource_filename(__name__, "model.joblib"))
+        self.preprocessing = load(resource_filename(__name__, "preprocessing.joblib"))
 
 
-    def vcc_or_unclassified(self, feature_vector, threshold=1):
+    def vcc_or_unclassified(self, feature_vector, bag_of_words, threshold=1):
         scaled_feature_vector = self.preprocess(feature_vector)
         confidence = self.model.decision_function(scaled_feature_vector)
         significance_vector = scaled_feature_vector.multiply(self.model.coef_[0])
@@ -26,7 +27,7 @@ class Svm:
         if self.model.predict(scaled_feature_vector): #confidence[0] > threshold:
             print("Commit is prone to be vulnerable!")
             print("Confidence:", str(confidence[0]))
-            # print("The significant feature was:" , str(significance_vector.argmax()), "with score", str(significance_vector.max()) + "\n")
+            print("The significant feature was:" , bag_of_words.get_vocabulary()[significance_vector.argmax()])
             return True
         else:
             print("Commit is not prone to be vulnerable!")
