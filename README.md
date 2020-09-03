@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 ## Example
 In this example we run the classifier over the commit that introduced the infamous heartbleed bug.
 ```
-vccrosshair --repo openssl --commit 4817504d069b4c5082161b02a22116ad75f822b1
+vccrosshair --repo path/to/openssl --commit 4817504d069b4c5082161b02a22116ad75f822b1
 > Commit is prone to be vulnerable!
 > Confidence: 0.6815684510145337
 > The most significant feature was: Average added line count (per file count)
