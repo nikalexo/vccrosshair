@@ -12,7 +12,6 @@ args = parser.parse_args()
 def main():
     svm = Svm()
     
-    
     bag_of_words = BagOfWords()
 
     commit = Commit(args.repo, args.commit, bag_of_words)

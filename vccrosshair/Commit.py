@@ -50,7 +50,7 @@ class Commit:
 
 		# skip merge commits
 		if (len(self.commit.parents) > 1):
-			raise ValueError("Merge commit, skipping", str(self.commit))
+			raise Exception("Commit \'{0}\' is a merge commit. Merge commits are not supported by vccrosshair!".format(self.commit))
 
 
 		self.features_raw["commit_message"] = self.commit.message
@@ -85,13 +85,10 @@ class Commit:
 							elif line[0].isdigit():
 								self.features_raw["hunk_count"] += 1
 
-					if (len((self.features_raw["added_code"].splitlines()) + self.features_raw["deleted_code"].splitlines())) > 2000:
-						raise ValueError("Commit too long, skipping", str(self.commit))
-
 
 		# extract file information
 		if len(files) == 0:
-			raise ValueError("Commit does not alter C files, skipping", str(self.commit))
+			raise Exception("Commit \'{0}\' does not alter any C/C++ files!".format(self.commit))
 		self.features_raw["file_count"] = len(files)
 		past_authors = set()
 		for file_name in files:
@@ -139,7 +136,6 @@ class Commit:
 
 		if self.features_raw["past_changes"] != 0:
 			features.append(self.features_raw["author_touch_count"]/self.features_raw["past_changes"])
-			assert(features[-1] <= 1)
 			features.append(self.features_raw["author_touch_count"]/self.features_raw["past_changes"]/self.features_raw["file_count"])
 		else:
 			features.append(1)
@@ -306,6 +302,6 @@ class Commit:
 
 def is_code_file(file):
     if file:
-        return re.match('^.*\.(c|c\+\+|cpp|h|hpp|cc)$', file) #('^.*\.(c|c\+\+|cpp|h|hpp|php)$', file)
+        return re.match('^.*\.(c|c\+\+|cpp|h|hpp|cc)$', file)
     return False
 	

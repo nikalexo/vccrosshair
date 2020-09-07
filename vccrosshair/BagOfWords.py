@@ -20,4 +20,4 @@ class BagOfWords:
 		with open(resource_filename(__name__, "vocabulary.txt"), "r") as voc:
 			vocabulary = voc.readlines()
 
-		return vocabulary + ["Appearance of token '" + v + "'" for v, i in sorted(self.word_vect.vocabulary_.items(), key=lambda item: item[1])]
+		return vocabulary + ["Appearance of token '" + v + "'\n" for v, i in sorted(self.word_vect.vocabulary_.items(), key=lambda item: item[1])]
