@@ -20,5 +20,11 @@ vccrosshair --repo path/to/openssl --commit 4817504d069b4c5082161b02a22116ad75f8
 > Confidence: 0.6815684510145337
 > The most significant feature was: Average added line count (per file count)
 ```
+
+## Exceptions
+Vccrosshair will not work on commits that:
+* do not alter any C/C++ files
+* are merge commits
+
 ## Dataset
 The dataset the classifier was trained on is soon to be released along with a paper that dives deep into its creation. I will link to it here upon release!

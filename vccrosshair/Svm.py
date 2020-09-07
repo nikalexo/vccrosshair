@@ -25,23 +25,13 @@ class Svm:
         if self.model.predict(scaled_feature_vector):
             print("Commit is prone to be vulnerable!")
             print("Confidence:", str(confidence[0]))
-            print("The most significant feature overall was:" , bag_of_words.get_vocabulary()[significance_vector.argmax()], "score:", significance_vector.max())
-            for i, val in enumerate(metadata_features[0]):
-                if val == max(metadata_features[0]):
-                    score = val
-                    index = i
-            print("The most significant metadata feature was:" , bag_of_words.get_vocabulary()[index], "score:", score)
+            print("The most significant feature was:" , bag_of_words.get_vocabulary()[significance_vector.argmax()])
             return True
         else:
             print("Commit is not prone to be vulnerable!")
             print("Confidence:", str(confidence[0]))
-            print("The most significant feature was:" , bag_of_words.get_vocabulary()[significance_vector.argmin()], "score:", significance_vector.min())
-            for i, val in enumerate(metadata_features[0]):
-                if val == min(metadata_features[0]):
-                    score = val
-                    index = i
-            print("The most significant metadata feature was:" , bag_of_words.get_vocabulary()[index], "score:", score)
             return False
 
     def preprocess(self, vector):
         return hstack(( self.preprocessing.transform(vector.tocsc()[0, :303].toarray()), vector.tocsc()[0, 303:].toarray() )).tocsr()
+
