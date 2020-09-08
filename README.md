@@ -23,7 +23,7 @@ vccrosshair --repo path/to/openssl --commit 4817504d069b4c5082161b02a22116ad75f8
 ```
 
 ## Exceptions
-Vccrosshair will not work on commits that:
+Vccrosshair will not work on commits that
 * do not alter any C/C++ files
 * are merge commits
 
