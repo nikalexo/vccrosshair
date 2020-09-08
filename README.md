@@ -5,6 +5,7 @@ This is a CLI for a classifier I developed as part of my Bachelor Thesis. This t
 ## Table of Contents
 - [Installation](#installation)
 - [Example](#example)
+- [Exceptions](#exceptions)
 - [Dataset](#dataset)
 
 ## Installation
