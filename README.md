@@ -1,6 +1,6 @@
 # vccrosshair
 
-This is a CLI for a classifier I wrote as part of my Bachelor Thesis. This tool can to an extent distinguish between commits that are prone to be vulnerable and ones that are not. You can find the entire thesis as well as a summary in the Thesis directory.
+This is a CLI for a classifier I developed as part of my Bachelor Thesis. This tool can to an extent distinguish between commits that are prone to be vulnerable and ones that are not. You can find the entire thesis as well as a summary in the Thesis directory.
 
 ## Table of Contents
 - [Installation](#installation)
