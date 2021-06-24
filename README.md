@@ -28,4 +28,4 @@ Vccrosshair will not work on commits that
 * are merge commits
 
 ## Dataset
-The dataset the classifier was trained on is soon to be released along with a paper that dives deep into its creation. I will link to it here upon release!
+https://figshare.com/s/4dd1130c336f43f6e18c
