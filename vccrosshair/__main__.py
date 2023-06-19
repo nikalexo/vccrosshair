@@ -15,6 +15,11 @@ def main():
     bag_of_words = BagOfWords()
 
     commit = Commit(args.repo, args.commit, bag_of_words)
-    commit.extract_features()
+    try:
+        commit.extract_features()
+    except Exception as e:
+        print("Exception ocurred:", str(e))
+        return
+
     
     svm.vcc_or_unclassified(commit.get_feature_vector(), bag_of_words)
