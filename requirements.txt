@@ -7,4 +7,4 @@ scipy==1.5.2
 sklearn==0.0
 smmap==3.0.4
 threadpoolctl==2.1.0
--e git+https://github.com/jp-wagner/vccrosshair.git@fde943c8b71422df01d02e2d279be8fdcceeb973#egg=vccrosshair
+-e git+https://github.com/jp-wagner/vccrosshair.git#egg=vccrosshair
