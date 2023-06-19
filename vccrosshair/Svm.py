@@ -5,6 +5,7 @@ from joblib import dump, load
 import numpy as np
 from scipy.sparse import csc_matrix, vstack, hstack
 from pkg_resources import resource_filename
+from termcolor import colored
 
 
 sys.setrecursionlimit(100000000)
@@ -23,12 +24,12 @@ class Svm:
         metadata_features = significance_vector.tocsc()[0, :387].toarray()
 
         if self.model.predict(scaled_feature_vector):
-            print("Commit is prone to be vulnerable!")
+            print(colored("Commit is prone to be vulnerable!",'red'))
             print("Confidence:", str(confidence[0]))
             print("The most significant feature was:" , bag_of_words.get_vocabulary()[significance_vector.argmax()])
             return True
         else:
-            print("Commit is not prone to be vulnerable!")
+            print(colored("Commit is not prone to be vulnerable!",'green'))
             print("Confidence:", str(confidence[0]))
             return False
 
